@@ -42,6 +42,19 @@
         font-size: 20px;
     }
 
-    #name{
-color: rgb(116, 116, 116);
+    /* #zzz{
+        position: fixed;
+        color: black;
+        text-decoration: none;
+        background-color: #06D500;
+        filter: drop-shadow(5px 5px 2px #FF00EC);
+        font-size: 20px;
+        top: 50vh;
+        visibility: hidden;
     }
+    
+    #zzz:hover{
+        color: #FFF;
+        background-color: #7400FF;
+        filter: drop-shadow(5px 5px 2px yellow);
+    } */
